@@ -17,6 +17,8 @@ tips：GEB = Godel, Escher, Bach-- An Eternal Golden Braid
 
 你的脑子有没有问题？我为什么会这么问？
 
+为什么不创建新的md文件来评论笑话呢？me是最深刻的词！
+
 ## 玩的开心！
 
 某些行没有出现标点...（当然不是下面那行）
