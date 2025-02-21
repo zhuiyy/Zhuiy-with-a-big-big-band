@@ -11,7 +11,7 @@ tips：GEB = Godel, Escher, Bach-- An Eternal Golden Braid
 
 当然，直接把GEB笑话摘抄过来你是相当欢迎自己的，因为这句话不是真的
 
-其实第六行中没有中文
+其实第五行中没有中文
 
 行中没有中文？文中没有中文？
 
