@@ -5,3 +5,4 @@
     None：圣经是不是唯一的真理
     None：如果是
     None：人就不依附于圣经内容的认识到了某种绝对性
+    Some：create ./bible/all the Truth.md
